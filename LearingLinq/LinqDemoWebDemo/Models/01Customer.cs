@@ -9,8 +9,8 @@ namespace LinqDemoWebDemo.Models
 
     //添加引用      System.Data.Linq.Mapping;
 
-    [Table(Name = "Customers")]
-    public class _01Customs
+    [Table(Name = "Customer")]
+    public class Customer
     {
         [Column(IsPrimaryKey = true)]
         public string Id { get; set; }
