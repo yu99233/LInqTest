@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01预备知识", "01预备知识", "{09B5B928-C708-437B-AC7D-A37AB713A9C5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01", "01\01.csproj", "{A0B72A3B-92CB-4CC6-A888-35FE70C5E6DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemoWebDemo", "LinqDemoWebDemo\LinqDemoWebDemo.csproj", "{2EFE6C2A-9A38-42DD-B192-DE76C2C6AE81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A0B72A3B-92CB-4CC6-A888-35FE70C5E6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0B72A3B-92CB-4CC6-A888-35FE70C5E6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0B72A3B-92CB-4CC6-A888-35FE70C5E6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0B72A3B-92CB-4CC6-A888-35FE70C5E6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFE6C2A-9A38-42DD-B192-DE76C2C6AE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFE6C2A-9A38-42DD-B192-DE76C2C6AE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFE6C2A-9A38-42DD-B192-DE76C2C6AE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFE6C2A-9A38-42DD-B192-DE76C2C6AE81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{A0B72A3B-92CB-4CC6-A888-35FE70C5E6DF} = {09B5B928-C708-437B-AC7D-A37AB713A9C5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {99DE749B-8718-4F19-B66F-123992A572FA}
