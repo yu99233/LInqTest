@@ -19,4 +19,15 @@ namespace LinqDemoWebDemo.Models
         [Column]
         public string City { get; set; }
     }
+
+    [Table(Name = "Eye")]
+    public class Eye
+    {
+        [Column(IsPrimaryKey = true)]
+        public string Id { get; set; }
+        [Column(Name = "ContactName")]
+        public string Name { get; set; }
+        [Column]
+        public string City { get; set; }
+    }
 }

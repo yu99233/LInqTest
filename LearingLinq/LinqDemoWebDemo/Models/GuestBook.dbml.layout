@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="GuestBook">
+  <DataContextMoniker Name="/GuestBookDataContext" />
+  <nestedChildShapes>
+    <classShape Id="144d68a8-c559-431f-8a0c-dc8f47c53b9d" absoluteBounds="1, 0.625, 2, 1.9068933105468751">
+      <DataClassMoniker Name="/GuestBookDataContext/tbGuestBook" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bfe7331d-03a4-4576-8f5b-d155fe1c8c48" absoluteBounds="1.0149999999999997, 1.085, 1.9700000000000002, 1.346893310546875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

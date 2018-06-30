@@ -7,10 +7,10 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace LinqDemoWebDemo.UI {
+namespace LinqDemoWebDemo.UI.第3章_增删改 {
     
     
-    public partial class _01 {
+    public partial class _01Default {
         
         /// <summary>
         /// form1 控件。
@@ -22,39 +22,39 @@ namespace LinqDemoWebDemo.UI {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// GridView1 控件。
+        /// tb_UserName 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView1;
+        protected global::System.Web.UI.WebControls.TextBox tb_UserName;
         
         /// <summary>
-        /// GridView2 控件。
+        /// tb_Message 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView2;
+        protected global::System.Web.UI.WebControls.TextBox tb_Message;
         
         /// <summary>
-        /// GridView3 控件。
+        /// btn_SendMessage 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView3;
+        protected global::System.Web.UI.WebControls.Button btn_SendMessage;
         
         /// <summary>
-        /// GridView4 控件。
+        /// rpt_Message 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView4;
+        protected global::System.Web.UI.WebControls.Repeater rpt_Message;
     }
 }
